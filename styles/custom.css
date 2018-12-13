@@ -6,6 +6,12 @@ p.venue {
   margin-bottom: 1em;
 }
 
+.slide.text p {
+  text-align: center;
+  font-size: 2.2em !important;
+  margin-bottom: -.5em !important;
+}
+
 .slide figure.cover.width.margin > :first-child {
   width: 88%
 }
